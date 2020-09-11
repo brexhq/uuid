@@ -47,6 +47,6 @@ defmodule Uuid.Mixfile do
      files: ~w(src include doc rebar.config README.markdown),
      maintainers: ["Michael Truog"],
      licenses: ["MIT"],
-     links: %{"GitHub" => "https://github.com/okeuday/uuid"}]
+     links: %{"GitHub" => "https://github.com/brexhq/uuid.git"}]
    end
 end
